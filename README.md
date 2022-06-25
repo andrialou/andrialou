@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andrialou
+- 👋 Hi, I’m Alex!
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning C++ and have experience with HTML, CSS, JavaScript, Python, and Unix scripting.
 - 💞️ I’m looking to collaborate on anything I can make a positive contribution to.
